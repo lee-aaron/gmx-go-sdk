@@ -1,0 +1,12 @@
+{
+  "name": "gmx-go-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lee-aaron/gmx-go-sdk.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-foundry": "^1.1.1",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.2"
+  }
+}

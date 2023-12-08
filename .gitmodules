@@ -1,0 +1,15 @@
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/gmx-contracts"]
+	path = lib/gmx-contracts
+	url = https://github.com/gmx-io/gmx-contracts
+[submodule "lib/prb-math"]
+	path = lib/prb-math
+	url = https://github.com/PaulRBerg/prb-math
+[submodule "lib/gmx-synthetics"]
+	path = lib/gmx-synthetics
+	url = https://github.com/gmx-io/gmx-synthetics
+[submodule "lib/gmx-interface"]
+	path = lib/gmx-interface
+	url = https://github.com/gmx-io/gmx-interface
